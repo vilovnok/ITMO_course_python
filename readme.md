@@ -5,7 +5,7 @@
 
 - [**hw1:** Модель данных и CLI](https://github.com/vilovnok/ITMO_course_python/tree/hw1)
 - [**hw2:** Функциональное программирование и декораторы](https://github.com/vilovnok/ITMO_course_python/tree/hw2)  
-- **hw3:** Объектно-ориентированное программирование и дескрипторы  
+- [**hw3:** Объектно-ориентированное программирование и дескрипторы](https://github.com/vilovnok/ITMO_course_python/tree/hw3)    
 - **hw4:** Многозадачность  
 - **hw5:** Asyncio  
 - **hw6:** Оптимизация  
