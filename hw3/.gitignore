@@ -1,0 +1,5 @@
+build/
+.venv/
+hw1.egg-info/
+trash/
+dist/
